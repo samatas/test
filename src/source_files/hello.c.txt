@@ -4,4 +4,7 @@ int main(){
 
 print hello;
 
+}	
+void printaba(){
+ print aba;
 }
